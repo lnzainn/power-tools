@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/power-tools/static/css/main.e8a5b72b.css",
-    "main.js": "/power-tools/static/js/main.547f20ae.js",
-    "static/js/453.86bd8f5e.chunk.js": "/power-tools/static/js/453.86bd8f5e.chunk.js",
+    "main.css": "/power-tools/static/css/main.140d9cd2.css",
+    "main.js": "/power-tools/static/js/main.3e5bd85e.js",
     "index.html": "/power-tools/index.html",
-    "main.e8a5b72b.css.map": "/power-tools/static/css/main.e8a5b72b.css.map",
-    "main.547f20ae.js.map": "/power-tools/static/js/main.547f20ae.js.map",
-    "453.86bd8f5e.chunk.js.map": "/power-tools/static/js/453.86bd8f5e.chunk.js.map"
+    "main.140d9cd2.css.map": "/power-tools/static/css/main.140d9cd2.css.map",
+    "main.3e5bd85e.js.map": "/power-tools/static/js/main.3e5bd85e.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8a5b72b.css",
-    "static/js/main.547f20ae.js"
+    "static/css/main.140d9cd2.css",
+    "static/js/main.3e5bd85e.js"
   ]
 }
