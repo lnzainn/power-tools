@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/power-tools/static/css/main.140d9cd2.css",
-    "main.js": "/power-tools/static/js/main.ced09eca.js",
+    "main.js": "/power-tools/static/js/main.e31c2da7.js",
     "index.html": "/power-tools/index.html",
     "main.140d9cd2.css.map": "/power-tools/static/css/main.140d9cd2.css.map",
-    "main.ced09eca.js.map": "/power-tools/static/js/main.ced09eca.js.map"
+    "main.e31c2da7.js.map": "/power-tools/static/js/main.e31c2da7.js.map"
   },
   "entrypoints": [
     "static/css/main.140d9cd2.css",
-    "static/js/main.ced09eca.js"
+    "static/js/main.e31c2da7.js"
   ]
 }
